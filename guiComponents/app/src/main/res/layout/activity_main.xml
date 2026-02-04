@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <!-- Main Heading -->
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:text="Welcome to My App"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="@color/midnight_black" />
+
+    <!-- New Sub Text -->
+
+    <TextView
+        android:id="@+id/subTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:text="Click buttons below to customize the app"
+        android:textColor="@color/ocean_blue"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/changeSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="389dp"
+        android:text="Change Font Size" />
+
+    <Button
+        android:id="@+id/changeColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Change Font Color" />
+
+    <Button
+        android:id="@+id/changeBgColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Change Background Color" />
+
+</LinearLayout>

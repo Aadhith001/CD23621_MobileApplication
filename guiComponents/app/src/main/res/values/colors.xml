@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="midnight_black">#1C1C1C</color>
+    <color name="sunset_orange">#FF7043</color>
+    <color name="ocean_blue">#0277BD</color>
+    <color name="forest_green">#2E7D32</color>
+    <color name="royal_purple">#6A1B9A</color>
+
+
+    <color name="ivory_white">#FAFAFA</color>
+    <color name="sky_blue">#B3E5FC</color>
+    <color name="mint_green">#C8E6C9</color>
+    <color name="peach_cream">#FFE0B2</color>
+    <color name="lavender_mist">#E1BEE7</color>
+
+</resources>

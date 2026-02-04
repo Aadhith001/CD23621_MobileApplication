@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Counter text -->
+    <color name="counter_primary">#1E88E5</color>
+
+    <!-- Buttons -->
+    <color name="plus_green">#43A047</color>
+    <color name="minus_red">#E53935</color>
+    <color name="reset_gray">#616161</color>
+
+    <!-- Card background -->
+    <color name="card_bg">#FAFAFA</color>
+
+</resources>
