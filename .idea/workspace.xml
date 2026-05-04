@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdc71d8b-8c32-4eac-8332-ef11a9d7a3d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/androidTest/java/com/example/datavisualizationapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/java/com/example/datavisualizationapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/app/src/test/java/com/example/datavisualizationapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Excercise 5/dataVisualizationApp/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/androidTest/java/com/example/gestureapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/java/com/example/gestureapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/java/com/example/gestureapp/SecondActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/app/src/test/java/com/example/gestureapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/Exercise 4/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile_Application_and_Development-main/sample" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aadhith001&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/harishbabu231701017/Mobile_Application_and_Development&quot;,
+    &quot;accountId&quot;: &quot;e9a6744d-7e42-4b19-afdf-48b460af8e34&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DGN5TRYsI08hGmgEilNPsld7ht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aadhi/Downloads/Exp 4"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc71d8b-8c32-4eac-8332-ef11a9d7a3d3" name="Changes" comment="" />
+      <created>1777904262525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777904262525</updated>
+    </task>
+    <servers />
+  </component>
+</project>
